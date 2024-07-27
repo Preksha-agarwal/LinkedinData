@@ -18,9 +18,12 @@ The data cleaning process was performed using SQL, involving several key steps:
 - Extracted industry information from the no_of_employ column.
 - Cleaned the no_of_application, alumni, Hiring_person, and linkedin_followers columns by removing invalid characters and text, and converting to appropriate data types.
 - Cleaned job descriptions by removing the leading 'About the job' text.
+  
 **3. Handling Null Values:**
 - Removed rows with null values in critical columns such as job, company_name.
+  
 **4. Deleting Unnecessary Columns:**
 - Removed columns that were either empty or redundant after cleaning.
+
 **5. Renaming Columns:**
 - Renamed columns to improve readability and understanding of the data.
