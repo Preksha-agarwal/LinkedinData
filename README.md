@@ -4,7 +4,7 @@
 # Project Overview
 This project involves analyzing LinkedIn job data using SQL for data cleaning and Tableau for visualization. The primary objectives are to clean the dataset, remove duplicates, standardize values, and visualize the insights gained from the cleaned data.
 
-# Data Cleaning with SQL
+# Data Cleaning with MySQL
 The data cleaning process was performed using MySQL, involving several key steps:
 
 **1. Removing Duplicates:**
@@ -67,10 +67,10 @@ After cleaning the data using SQL, the next step was to visualize the data using
 
 The data used in this project was collected from Kaggle and could be subject to various biases due to the search history and interactions of the data owner. These biases might affect the overall representation and analysis of job market trends. The following are key areas where bias might be introduced:
 
-**1.Personalized Job Recommendations:** Platforms like LinkedIn often personalize job recommendations based on a user's profile, search history, and interactions.
+- **Personalized Job Recommendations:** Platforms like LinkedIn often personalize job recommendations based on a user's profile, search history, and interactions.
 
-**2. Geographical Focus:** The data owner's location and previous job searches might influence the geographical distribution of job postings.
+- **Geographical Focus:** The data owner's location and previous job searches might influence the geographical distribution of job postings.
 
-**3. Industry and Role Preferences:** If the data owner has shown a preference for specific industries or roles through their search history, these sectors might be overrepresented.
+- **Industry and Role Preferences:** If the data owner has shown a preference for specific industries or roles through their search history, these sectors might be overrepresented.
 
-**4. Company Engagement:**  Interactions with certain companies (e.g., following company pages, viewing job postings from specific companies) might lead to more job postings from these companies being included in the dataset.
+- **Company Engagement:**  Interactions with certain companies (e.g., following company pages, viewing job postings from specific companies) might lead to more job postings from these companies being included in the dataset.
