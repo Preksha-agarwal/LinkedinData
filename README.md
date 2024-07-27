@@ -52,12 +52,12 @@ After cleaning the data using SQL, the next step was to visualize the data using
 - **Insight:** Remote Roles are very much in-demand in the job market, followed by on-site roles.
 
 
-**4.Job Postings by Industry:**
+**4. Job Postings by Industry:**
 
 - Generated bar charts to showcase the top industries hiring based on the number of job postings.
 - **Insight:** IT Services and Consulting is the industry with the major amount job postings.
 
-**5.Job Distribution by Employment Type:**
+**5. Job Distribution by Employment Type:**
 
 - Visualized the distribution of employment types (full-time, part-time, internship).
 - **Insight:** A significant portion of the job postings were for full-time positions.
