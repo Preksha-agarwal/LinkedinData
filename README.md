@@ -7,7 +7,7 @@ This project involves analyzing LinkedIn job data using SQL for data cleaning an
 # Data Cleaning with SQL
 The data cleaning process was performed using SQL, involving several key steps:
 
-1. Removing Duplicates:
+**1. Removing Duplicates:**
 - Identified and removed duplicate job postings based on the job_ID.
 
 2. Standardizing Values:
